@@ -21,3 +21,12 @@ This project uses machine learning to detect fraudulent credit card transactions
 1. Install the required libraries:
 ```bash
 pip install -r requirements.txt
+## Dataset
+
+The dataset used for this project is available on Kaggle:
+
+🔗 [Credit Card Fraud Detection Dataset – Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+
+To run this project:
+1. Download the dataset from the link above.
+2. Place `creditcard.csv` in the root directory of this project.
